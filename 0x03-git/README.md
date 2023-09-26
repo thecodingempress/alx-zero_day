@@ -1,1 +1,1 @@
-Git basics
+Learning Git basics
